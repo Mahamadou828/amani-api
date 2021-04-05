@@ -8,7 +8,8 @@
   },
   "scripts": {
     "server": "nodemon server.js",
-    "static-server": "node server.js"
+    "static-server": "node server.js",
+    "start": "node server.js"
   },
   "author": "Cory House",
   "license": "MIT",
